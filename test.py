@@ -14,3 +14,6 @@ MessageLoop(bot, handle).run_as_thread()
 
 # import logging
 print('I am ready to work ...')
+
+while 1:
+    time.sleep(10)
