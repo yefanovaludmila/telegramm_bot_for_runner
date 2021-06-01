@@ -6,5 +6,5 @@ idna==2.7
 idna-ssl==1.1.0
 multidict==4.3.1
 telepot==12.7
-urllib3==1.23
+urllib3==1.26.5
 yarl==1.2.6
